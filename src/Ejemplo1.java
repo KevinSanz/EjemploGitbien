@@ -7,10 +7,10 @@ public class Ejemplo1 extends acm.program.GraphicsProgram{
 	//cambio tamaño de la ventana
 	setSize(800,600);
 	//llamo al metodo que dibuja la piramide 
-	pintarPiramide();
-	}
-	public void pintarPiramide(){
-		
-	}
 
+	lengua();
+	}
+public void lengua(){
+	
+}	
 }
